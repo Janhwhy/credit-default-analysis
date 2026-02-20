@@ -1,0 +1,6 @@
+Utilization_Bucket,Total_Customers,Default_Rate_Percentage
+0-20% (Low),13255,18.29
+20-50% (Medium),4371,21.07
+80-100% (Very High),5865,25.52
+50-80% (High),4394,26.33
+100%+ (Overlimit),2115,30.07

@@ -1,0 +1,5 @@
+Payment_Behavior,Total_Customers,Default_Rate_Percentage
+No Balance,2598,24.75
+Paid < 20% (Low Payment),19678,24.16
+Paid in Full,3871,15.5
+Partial Payment,3853,16.56
